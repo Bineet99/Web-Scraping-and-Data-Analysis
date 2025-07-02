@@ -14,7 +14,11 @@ News Sentiment Analyzer is a Python-based project that scrapes real-time headlin
 
 
 
+
+
+
 🛠 Tech Stack
+
 
 Python – Core programming
 
