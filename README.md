@@ -6,8 +6,15 @@
 
 ---
 
-This project focuses on extracting live news headlines from the *Hindustan Times* website, analyzing their sentiment, and visualizing the results. Using Python, the script performs **web scraping** with `requests` and `BeautifulSoup` to gather headlines from the India News section. Each headline is then analyzed using `TextBlob` to determine its **sentiment polarity** — classified as Positive, Negative, or Neutral.
+This project, developed during my internship at Navodita Infotech, is a complete Python-based tool that automates the process of web scraping, sentiment analysis, and data visualization from real-time news headlines.
 
-The results are organized using `pandas` and saved as a CSV file. A **bar chart** generated with `matplotlib` visualizes the distribution of sentiments across the headlines. This provides a quick overview of the emotional tone of current news.
+The script scrapes the latest headlines from the Hindustan Times India News section using requests and BeautifulSoup. These headlines are then analyzed using TextBlob, an NLP library that determines the sentiment polarity of each news item—classifying them as Positive, Negative, or Neutral. The results are stored in a structured CSV file using pandas and visualized in a bar chart using matplotlib.
 
-The project combines real-time data extraction, natural language processing (NLP), and basic data visualization — making it useful for news analytics, public opinion monitoring, or educational demos in Python.
+This project demonstrates my ability to build end-to-end data pipelines—from data extraction to insight generation. It showcases core skills in Python, Natural Language Processing (NLP), data analysis, and visual reporting, making it a strong foundation for applications in media analytics, social listening, or public sentiment tracking.
+
+✅ Clean and modular code
+📊 Real-time sentiment visualization
+💡 Ready to scale for trend analysis over time
+
+Ideal for anyone looking to explore applied NLP, automated reporting, and real-time web data insights.
+
